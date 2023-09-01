@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Gaming-Ecommerce-Website/static/css/main.e78cf2a5.css",
-    "main.js": "/Gaming-Ecommerce-Website/static/js/main.72046325.js",
+    "main.js": "/Gaming-Ecommerce-Website/static/js/main.29907a4d.js",
     "static/js/787.28cb0dcd.chunk.js": "/Gaming-Ecommerce-Website/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/Gaming-Ecommerce-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Gaming-Ecommerce-Website/index.html",
     "main.e78cf2a5.css.map": "/Gaming-Ecommerce-Website/static/css/main.e78cf2a5.css.map",
-    "main.72046325.js.map": "/Gaming-Ecommerce-Website/static/js/main.72046325.js.map",
+    "main.29907a4d.js.map": "/Gaming-Ecommerce-Website/static/js/main.29907a4d.js.map",
     "787.28cb0dcd.chunk.js.map": "/Gaming-Ecommerce-Website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e78cf2a5.css",
-    "static/js/main.72046325.js"
+    "static/js/main.29907a4d.js"
   ]
 }
